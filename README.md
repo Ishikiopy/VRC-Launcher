@@ -1,4 +1,4 @@
-<h1>#VRCLauncher<h1/>
+<h1>#VRCLauncher</h1>
 <br/>
 <br/>
 ![image](https://user-images.githubusercontent.com/105979511/198199627-a10659e0-d5e8-4d6c-bf10-7974647d16ab.png)<br/>
