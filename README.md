@@ -8,7 +8,7 @@
    <img src="https://user-images.githubusercontent.com/105979511/198814951-931725aa-9d88-4026-939d-fa8024ecc18b.png"></img>
    <p>Latest Changes</p>
    <p>
-   - removed "High Priority" function because of non responsive issue / filling up CPU speed. (i am work on a better way)<br/>
+   - removed "High Priority" function because of non responsive issue / filling up CPU speed, working on it.<br/>
    - added control to change the capped FPS (click the number)<br/>
    - added Empty Chache option to clear VRChat Download Chache<br/>
    - High Priority now fully functional<br/>
