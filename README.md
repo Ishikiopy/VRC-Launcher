@@ -6,7 +6,7 @@
    <h1>VRCLauncher</h1>
    <p>Launches VRChat with optional arguments and functions.</p>
    <img src="https://user-images.githubusercontent.com/105979511/198811006-26656901-fbd3-4211-8c24-0e373076f688.png"></img>
-   <p>Change-log</p>
+   <p>Latest Changes</p>
    <p>- added Empty Chache option to clear VRChat Download Chache<br/>
    - High Priority now fully functional<br/>
    - removed Fullscreen option</p>
