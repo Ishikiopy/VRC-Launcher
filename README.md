@@ -17,9 +17,9 @@
    - ALVR autostart.<br />
    - Auto Launch after starting the Program.<br /><br />
    Extra Sideffect Features<br />
-   - Play VRChat without steam in Desktop mode. It will start steamvr, but you can just close it yourself.
-   - Start the Launcher while VRChat is running to force close VRChat if non responsive.
-   
+   - Play VRChat without steam in Desktop mode. It will start steamvr, but you can just close it yourself.<br />
+   - Start the Launcher while VRChat is running to force close VRChat if non responsive.<br />
+   <br />
    These are all OPTIONS you are not forced to use any of them.
    <br />
    <br />
