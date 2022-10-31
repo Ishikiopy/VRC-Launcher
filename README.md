@@ -19,9 +19,9 @@
    These are all OPTIONS you are not forced to use any of them.
    <br />
    <br />
-   Majority of these functions are created to lower the amount of work the user has to do to get the most out of the game.<br />
-   Functions like Empty VRC-Chache can fix certain lag spikes, Bullshit Closer can help to gain more FPS with weak CPUs, and more.<br />
-   The program has been tested a lot in the last days and performed very well, in case you do encounter a bug let me know.<br />
+   Majority of these functions are created to lower the amount of work the user has to do to get the most out of the game.<br /><br />
+   Functions like Empty VRC-Chache can fix certain lag spikes, Bullshit Closer can help to gain more FPS with weak CPUs, and more.<br /><br />
+   The program has been tested a lot in the last days and performed very well, in case you do encounter a bug let me know.<br /><br />
    </p>
    
    <h2>START AS ADMINISTRATOR OTHERWISE IT WONT WORK PROPERLY!!!</h2>
