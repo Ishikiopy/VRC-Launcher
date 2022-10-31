@@ -8,7 +8,7 @@
    <img src="https://user-images.githubusercontent.com/105979511/198915003-d1d3eea6-0339-40fb-9f79-06038448e721.png">      </img>
    <h2>Features</h2>
    <p>
-   - VR/Desktop Mode switch, easily change change from vr to desktop mode and vise versa. <br />
+   - VR/Desktop Mode switch, easily change from vr to desktop mode and vise versa. <br />
    - Close EAC automatically when launching the game with the Launcher.<br />
    - Un/Cap FPS to 60, 90, 120, 999<br />
    - Delete VRChat Content Download Chache automatically when launching.<br />
