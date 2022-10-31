@@ -15,7 +15,11 @@
    - Bullshit Closer, closes programs/processes you list inside the BSC window.<br />
    - VRChat priority changer, switch between the default and high priority.<br />
    - ALVR autostart.<br />
-   - Auto Launch after starting the Program.<br />
+   - Auto Launch after starting the Program.<br /><br />
+   Extra Sideffect Features<br />
+   - Play VRChat without steam in Desktop mode. It will start steamvr, but you can just close it yourself.
+   - Start the Launcher while VRChat is running to force close VRChat if non responsive.
+   
    These are all OPTIONS you are not forced to use any of them.
    <br />
    <br />
