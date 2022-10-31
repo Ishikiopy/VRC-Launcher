@@ -14,6 +14,10 @@
    - Delete VRChat Content Download Chache automatically when launching.<br />
    - Bullshit Closer, closes programs/processes you list inside the BSC window.<br />
    - VRChat priority changer, switch between the default and high priority.<br />
+   - ALVR autostart.<br />
+   - Auto Launch after starting the Program.<br />
+   These are all OPTIONS you are not forced to use any of them.
+      
    <br />
    Majority of these functions are created to lower the amount of work the user has to do to get the most out of the game.<br />
    Functions like Empty VRC-Chache can fix certain lag spikes, Bullshit Closer can help to gain more FPS with weak CPUs, and more.<br />
