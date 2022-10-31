@@ -3,16 +3,21 @@
    <head>
    </head>
    <body>
-   <h1>VRCLauncher</h1>
+   <h1>VRCLauncher - Final</h1>
    <p>Launches VRChat with optional arguments and functions.</p>
-   <img src="https://user-images.githubusercontent.com/105979511/198814951-931725aa-9d88-4026-939d-fa8024ecc18b.png"></img>
-   <p>Latest Changes</p>
+   <img src="https://user-images.githubusercontent.com/105979511/198915003-d1d3eea6-0339-40fb-9f79-06038448e721.png">      </img>
+   <h2>Features</h2>
    <p>
-   - removed "High Priority" function because of non responsive issue / filling up CPU, working on it.<br/>
-   - added control to change the capped FPS (click the number)<br/>
-   - added Empty Chache option to clear VRChat Download Chache<br/>
-   - High Priority now fully functional<br/>
-   - removed Fullscreen option
+   - VR/Desktop Mode switch, easily change change from vr to desktop mode and vise versa.
+   - Close EAC automatically when launching the game with the Launcher.
+   - Un/Cap FPS to 60, 90, 120, 999
+   - Delete VRChat Content Download Chache automatically when launching.
+   - Bullshit Closer, closes programs/processes you list inside the BSC window.
+   - VRChat priority changer, switch between the default and high priority.
+   
+   Majority of these functions are created to lower the amount of work the user has to do to get the most out of the game.
+   Functions like Empty VRC-Chache can fix certain lag spikes, Bullshit Closer can help to gain more FPS with weak CPUs, and more.
+   The program has been tested a lot in the last days and performed very well, in case you do encounter a bug let me know.
    </p>
    
    <h2>START AS ADMINISTRATOR OTHERWISE IT WONT WORK PROPERLY!!!</h2>
