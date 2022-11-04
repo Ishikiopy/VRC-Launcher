@@ -5,7 +5,7 @@
    <body>
    <h1>VRCLauncher - Final</h1>
    <p>Launches VRChat with optional arguments and functions.</p>
-   <img src="https://user-images.githubusercontent.com/105979511/198915003-d1d3eea6-0339-40fb-9f79-06038448e721.png">      </img>
+   <img src="https://user-images.githubusercontent.com/105979511/200052414-5578d9f1-165c-46e3-bf62-c79f3e3abfac.png">      </img>
    <h2>Features</h2>
    <p>
    - VR/Desktop Mode switch, easily change from vr to desktop mode and vise versa. <br />
@@ -15,7 +15,9 @@
    - Bullshit Closer, closes programs/processes you list inside the BSC window.<br />
    - VRChat priority changer, switch between the default and high priority.<br />
    - ALVR autostart.<br />
-   - Auto Launch after starting the Program.<br /><br />
+   - Auto Launch after starting the Program.<br />
+   - Log Out - Log Out of currently logged in account when launching.<br />
+   - Clear Moderations (Clear Mods.) new!<br /><br />
    Extra Sideffect Features<br />
    - Play VRChat without steam in Desktop mode. It will start steamvr, but you can just close it yourself.<br />
    - Start the Launcher while VRChat is running to force close VRChat if non responsive.<br />
