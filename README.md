@@ -34,8 +34,7 @@
    <img src="https://user-images.githubusercontent.com/105979511/198198758-cd98644c-31bb-46fc-afcf-f6968f867821.png"></img><br/>
    <img src="https://user-images.githubusercontent.com/105979511/198198697-cba05147-8082-4e9e-94c7-00edd659a600.png"></img><br/><br/>
    <p>
-   **fix for certain issues, try before reporting issues**<br/>
-   Open your explorer and copy and paste this "%AppData%\Local\VRChat_Launcher_by_Sarah" without the " inside the location box, delete every file in        there.<br/>
+   If u got any issues try open your explorer and copy and paste this "%AppData%\Local\VRChat_Launcher_by_Sarah" without the " inside the location box, delete every file in there.<br/>
    Picture Tutorial<br/>
    <img src="https://user-images.githubusercontent.com/105979511/200074433-1d710e63-ca17-426b-9b0d-29d499278366.png"> </img>
    <img src="https://user-images.githubusercontent.com/105979511/200074466-6b8b6433-35c5-48d7-b78e-ba0a29fd001a.png"> </img>
