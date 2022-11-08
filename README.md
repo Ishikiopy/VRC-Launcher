@@ -15,6 +15,7 @@
    - Bullshit Closer, closes programs/processes you list inside the BSC window.<br />
    - VRChat priority changer, switch between the default and high priority.<br />
    - ALVR autostart.<br />
+   - OVR autostart.<br />
    - Auto Launch after starting the Program.<br />
    - Log Out - Log Out of currently logged in account when launching.<br />
    - Clear Moderations (Clear Mods.) new!<br /><br />
