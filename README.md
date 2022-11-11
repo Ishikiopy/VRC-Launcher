@@ -5,7 +5,7 @@
    <body>
    <h1>VRCLauncher - Final</h1>
    <p>Launches VRChat with optional arguments and functions.</p>
-   <iframe width="560" height="315" src="https://www.youtube.com/embed/LtFokvog70E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+   https://www.youtube.com/embed/LtFokvog70E
    <h2>Features</h2>
    <p>
    - VR/Desktop Mode switch, easily change from vr to desktop mode and vise versa. <br />
