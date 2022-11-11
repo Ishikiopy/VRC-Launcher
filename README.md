@@ -5,7 +5,7 @@
    <body>
    <h1>VRCLauncher - Final</h1>
    <p>Launches VRChat with optional arguments and functions.</p>
-   [https://www.youtube.com/LtFokvog70E](https://www.youtube.com/watch?v=LtFokvog70E)
+   https://www.youtube.com/watch?v=LtFokvog70E
    <h2>Features</h2>
    <p>
    - VR/Desktop Mode switch, easily change from vr to desktop mode and vise versa. <br />
