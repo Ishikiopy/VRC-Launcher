@@ -10,7 +10,7 @@
    <p>
    - VR/Desktop Mode switch, easily change from vr to desktop mode and vise versa. <br />
    - Close EAC automatically when launching the game with the Launcher.<br />
-   - Un/Cap FPS to 60, 90, 120, 999<br />
+   - Un/Cap FPS to 30, 60, 90, 120, 999<br />
    - Delete VRChat Content Download Chache automatically when launching.<br />
    - Bullshit Closer, closes programs/processes you list inside the BSC window.<br />
    - VRChat priority changer, switch between the default and high priority.<br />
