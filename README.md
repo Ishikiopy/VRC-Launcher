@@ -18,7 +18,7 @@
    - Auto Launch after starting the Program.<br />
    - Log Out - Log Out of currently logged in account when launching.<br />
    - Clear Moderations (Clear Mods.) new!<br /><br />
-   Extra Sideffect Features<br />
+   Extra Sideffect Features (can be disabled)<br />
    - Play VRChat without steam in Desktop mode. It will start steamvr, but you can just close it yourself.<br />
    - Start the Launcher while VRChat is running to force close VRChat if non responsive.<br />
    <br />
