@@ -6,7 +6,7 @@
    <h1>VRCLauncher - Final</h1>
    <p>Launches VRChat with optional arguments and functions.</p>
    <img src="https://user-images.githubusercontent.com/105979511/201531530-c8611956-54d6-4021-8864-5883f1b555fa.png"></img>
-   <img src="https://user-images.githubusercontent.com/105979511/201837649-124ceeb8-acb0-4cbd-911d-7b1b90a4caee.png"></img><br/><br/>
+   <img src="https://user-images.githubusercontent.com/105979511/201837649-124ceeb8-acb0-4cbd-911d-7b1b90a4caee.png"></img><br/>
    <b>Showcase video of a earlier version of the VRChat Launcher</b><br/>
    https://www.youtube.com/watch?v=LtFokvog70E
    <h2>Features</h2>
