@@ -27,7 +27,7 @@
    - Play VRChat without steam in Desktop mode. It will start steamvr, but you can just close it yourself.<br />
    - Start the Launcher while VRChat is running to force close VRChat if non responsive.<br />
    <br />
-   These are all OPTIONS you are not forced to use any of them.
+   These are all OPTIONS you are not forced to use any of them, run VRChat at least once before use.
    <br />
    <br />
    Majority of these functions are created to lower the amount of work the user has to do to get the most out of the game.<br /><br />
